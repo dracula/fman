@@ -2,7 +2,7 @@
 
 > A dark theme for [fman](https://fman.io/).
 
-![Screenshot](./dracula_fman_screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
