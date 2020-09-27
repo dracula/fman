@@ -1,0 +1,45 @@
+* {
+	font-size: 8pt;
+}
+
+th {
+	font-size: 8pt;
+}
+
+.locationbar {
+	padding: 0.25ex;
+	border-bottom: 1px solid #282a36;
+}
+
+.statusbar {
+	font-size: 8pt;
+}
+
+.quicksearch-query, .quicksearch-item-title {
+	font-size: 8pt;
+}
+
+.quicksearch-item {
+	padding-top: 3px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-top: 1px solid #44475a;
+	border-bottom: 0px solid #44475a;
+}
+
+.quicksearch-item-title {
+	color: #8be9fd;
+}
+
+.quicksearch-item-title-highlight {
+	color: #f8f8f2;
+}
+
+.quicksearch-item-hint {
+	font-size: 8pt;
+	color: #f8f8f2;
+}
+
+.quicksearch-item-description {
+	color: #6272a4;
+}
