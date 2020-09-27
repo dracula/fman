@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [fman](https://fman.io/)
 
 #### Install using Git
 
@@ -12,6 +12,10 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+You will need to manually replace the files as follows:
+- styles.qss goes in C:\Users\<username>\AppData\Local\fman\Versions\<version>
+- theme.css goes in C:\Users\<username>\AppData\Local\fman\Versions\<version>\Plugins\Core
+
+Unfortunatly there is no easy way to keep your changes. If fman is updated you will need to chnage the code again.
+
+IF you know how to make setting up the theme easier, please help :)
