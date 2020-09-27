@@ -3,8 +3,8 @@
 #### Installing and activating the theme
 
 You will need to manually replace the files as follows:
-- styles.qss goes in C:\Users\<username>\AppData\Local\fman\Versions\<version>
-- theme.css goes in C:\Users\<username>\AppData\Local\fman\Versions\<version>\Plugins\Core
+- styles.qss goes in C:\Users\\**your_username**\AppData\Local\fman\Versions\\**your_version**
+- theme.css goes in C:\Users\\**your_username**\AppData\Local\fman\Versions\\**your_version**\Plugins\Core
 
 I have also uploaded the files, so you can copy and paste the code as well.
 
