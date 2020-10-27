@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/fman](https://draculatheme.co
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/fman/graphs/contributors).
 
 | [![Sabrina Pereira](https://avatars0.githubusercontent.com/u/57198690?v=3&s=70)](https://github.com/sf-pear) |
 | ------------------------------------------------------------------------------------------------------------------ |
-| [Sabrina Pereira](https://github.com/sf-pear)       
+| [Sabrina Pereira](https://github.com/sf-pear)
 
 ## License
 
